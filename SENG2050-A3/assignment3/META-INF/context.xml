@@ -1,0 +1,13 @@
+<Context>
+<Resource
+	name="assignment3"
+	auth="Container"
+	type="javax.sql.DataSource"
+	maxActive="100"
+	maxIdle="30"
+	maxWait="100000"
+	username="c3233787"
+	password="091196"
+	driverClassName="com.mysql.jdbc.Driver"
+	url="jdbc:mysql://teachdb/c3233787_db"/>
+</Context>
